@@ -1,0 +1,17 @@
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\STEAM.exe
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\STEAM.deps.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\STEAM.runtimeconfig.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\STEAM.pdb
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Data.SqlClient.dll

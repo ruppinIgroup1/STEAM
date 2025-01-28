@@ -1,0 +1,109 @@
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.AssemblyReference.cache
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.AssemblyInfoInputs.cache
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.AssemblyInfo.cs
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.CoreCompileInputs.cache
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\appsettings.json
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\STEAM.exe
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\STEAM.deps.json
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\STEAM.runtimeconfig.json
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\STEAM.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\STEAM.pdb
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\scopedcss\bundle\STEAM.styles.css
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.CopyComplete
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\refint\STEAM.dll
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.pdb
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\STEAM.genruntimeconfig.cache
+C:\Users\amity\OneDrive\שולחן העבודה\לימודים\שנה ד\אינטרנטיות 2\HW4\STEAM\obj\Debug\net6.0\ref\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\refint\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.pdb
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\appsettings.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\STEAM.exe
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\STEAM.deps.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\STEAM.runtimeconfig.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\STEAM.pdb
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.AssemblyReference.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.AssemblyInfoInputs.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.AssemblyInfo.cs
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.CoreCompileInputs.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.STEAM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.build.STEAM.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.STEAM.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.STEAM.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\scopedcss\bundle\STEAM.styles.css
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.CopyComplete
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\STEAM.genruntimeconfig.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 ALL\HW4\STEAM\obj\Debug\net6.0\ref\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\appsettings.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\STEAM.exe
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\STEAM.deps.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\STEAM.runtimeconfig.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\STEAM.pdb
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.AssemblyReference.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.AssemblyInfoInputs.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.AssemblyInfo.cs
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.CoreCompileInputs.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.STEAM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.build.STEAM.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.STEAM.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.STEAM.props
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\scopedcss\bundle\STEAM.styles.css
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.csproj.CopyComplete
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\refint\STEAM.dll
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.pdb
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\STEAM.genruntimeconfig.cache
+C:\Users\Mor Peretz\OneDrive\מסמכים\שנה ד\אינטרנטיות 2\HW4 FINAL\HW4\STEAM\obj\Debug\net6.0\ref\STEAM.dll
