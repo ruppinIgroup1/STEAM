@@ -24,7 +24,7 @@ namespace STEAM.Controllers
             UserClass user = new UserClass();
             return user.LoginUser(Email, Password);
         }
-
+        
 
         // GET: api/<UsersController>
         [HttpGet]

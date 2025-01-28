@@ -241,7 +241,7 @@ public class DBservices
         {
             throw new Exception("Error connecting to the database: " + ex.Message);
         }
-
+        
         // הגדרת פרמטרים
         Dictionary<string, object> paramDic = new Dictionary<string, object>();
         paramDic.Add("@Email", Email);
